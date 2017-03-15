@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning - LC loans"
-author: "Svetlana Mikheyenoka"
+author: "Svetlana Mikheyenok"
 date: "March 5, 2017"
 output: 
   pdf_document: 
